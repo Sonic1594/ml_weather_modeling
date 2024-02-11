@@ -13,3 +13,12 @@ REQUIRED PACKAGES
   - pandas
   - scikit-learn
   - tensorflow
+
+Getting Started
+-
+
+```
+python -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+```
