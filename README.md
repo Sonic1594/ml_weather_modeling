@@ -8,8 +8,8 @@ Weather Forecaster is an lstm model trained on real world data to forecast weath
 REQUIRED PACKAGES
 - 
   - keras
-  - math
   - matplotlib
   - numpy
   - pandas
+  - scikit-learn
   - tensorflow
