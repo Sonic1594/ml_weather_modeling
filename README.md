@@ -5,15 +5,6 @@ Weather Forecaster is an lstm model trained on real world data to forecast weath
 
 - The initial framework from this code was inspired by https://www.youtube.com/watch?v=kGdbPnMCdOg
 
-REQUIRED PACKAGES
-- 
-  - keras
-  - matplotlib
-  - numpy
-  - pandas
-  - scikit-learn
-  - tensorflow
-
 Getting Started
 -
 
